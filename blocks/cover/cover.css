@@ -18,7 +18,19 @@
       height: 480px;
     }
   }
-  @media screen and  (max-width: 620px){
+  @media screen and  (max-width: 720px){
+    .cover{
+      margin-bottom: 64px;
+      height: 340px;
+    }
+  }
+  @media screen and  (max-width: 470px){
+    .cover{
+      margin-bottom: 64px;
+      height: 270px;
+    }
+  }
+  @media screen and  (max-width: 320px){
     .cover{
       margin-bottom: 64px;
       height: 200px;
