@@ -1,0 +1,23 @@
+[33mcommit a2899f2a7d6f8d605706bed9018dfc2d8bd81d9c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Artem Zyrianov <mister.zyrianovartyom@yandex.ru>
+Date:   Sun Aug 16 03:44:32 2020 +0600
+
+    Работа по адаптивной верстке - сделал гриды в процентах
+
+[33mcommit 1363a4ed42601b6537eb161f07e70558e9965606[m
+Author: Artem Zyrianov <mister.zyrianovartyom@yandex.ru>
+Date:   Sun Aug 16 03:22:40 2020 +0600
+
+    Добавил больше плавности
+
+[33mcommit 35dbbe97170ad1c426b741283dab1dd9b4b0943d[m
+Author: Artem Zyrianov <mister.zyrianovartyom@yandex.ru>
+Date:   Sun Aug 16 02:40:13 2020 +0600
+
+    Работа по адаптивной верстке
+
+[33mcommit f8338a91354cc02cfa580311183441d9ae5ec3d5[m
+Author: ZArtemA <68057580+ZArtemA@users.noreply.github.com>
+Date:   Wed Aug 12 01:27:08 2020 +0700
+
+    Initial commit
