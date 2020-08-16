@@ -1,0 +1,9 @@
+.footer__list-link{
+    margin-right: 18px;
+  }
+
+  @media screen and (max-width: 720px){
+    .footer__list-link{
+      margin: 0 0 18px;
+    }
+  }

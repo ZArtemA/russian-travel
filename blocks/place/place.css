@@ -21,10 +21,15 @@
       margin-bottom: 72px;
     }
   }
-  @media screen and (max-width: 720px){
+  @media screen and (min-width: 460px) and (max-width: 720px){
     .place{
       grid-template-columns: 1fr;
       row-gap: 32px;
       margin-bottom: 48px;
     }
   }
+  @media screen and (max-width: 459px){
+    .place{
+      grid-template-columns: 1fr;
+      row-gap: 32px;
+    }

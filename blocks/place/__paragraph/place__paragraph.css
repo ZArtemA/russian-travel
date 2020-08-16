@@ -5,6 +5,7 @@
     font-size: 18px;
     line-height: 1.63;
     color: #FFFFFF;
+    margin: 0;
   }
   @media screen and (max-width: 896px){
     .place__paragraph{

@@ -1,9 +1,0 @@
-.header__link-item{
-    display: inline;
-    margin-left: 19px;
-  }
-
-  .header__link-item:nth-child(1){
-    text-decoration: underline;
-    margin-left: 0;
-  }

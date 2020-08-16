@@ -9,9 +9,9 @@
     color: #FFFFFF;
     align-self: end;
   }
-  @media screen and (max-width: 642px){
+  @media screen and (max-width: 720px){
     .footer__copyrigh{
-      line-height: 1;
       margin-top: 14px;
+      line-height: 1;
     }
   }

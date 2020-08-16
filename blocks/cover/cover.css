@@ -26,13 +26,11 @@
   }
   @media screen and  (max-width: 470px){
     .cover{
-      margin-bottom: 64px;
       height: 270px;
     }
   }
   @media screen and  (max-width: 320px){
     .cover{
-      margin-bottom: 64px;
       height: 200px;
     }
   }

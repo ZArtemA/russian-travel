@@ -2,15 +2,13 @@
     list-style: none;
     padding: 0;
     margin: 0;
+    display: flex;
+
   }
 
-  .footer__list-link{
-    margin: 0 0 32px;
-  }
 
-  @media screen and (min-width: 643px){
-    .footer__list-link{
-      display: inline;
-      margin: 0;
+  @media screen and (max-width: 720px){
+    .footer__list-links{
+      flex-direction: column;
     }
   }

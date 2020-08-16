@@ -12,7 +12,3 @@
     z-index: 1;
     text-decoration: none;
   }
-
-.cover__background:hover .cover__overlay{
-    background: rgba(42, 44, 47, 0.8);
-}

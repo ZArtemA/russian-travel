@@ -6,13 +6,13 @@
     line-height: 1.2;
     color: #FFFFFF;
     padding: 0;
-    width: calc(100% - 2*(16px + (100% - 320px)/56));
     max-width: 640px;
     text-align: center;
-    margin-bottom: 56px;
+    margin: 0 auto 56px;
   }
-  @media screen and (max-width: 712px){
+  @media screen and (max-width: 720px){
     .lead__subtitle{
+      width: 90%;
       font-size: 16px;
       line-height: 1.25;
       margin: 0 auto 5vw;

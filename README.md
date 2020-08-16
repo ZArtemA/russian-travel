@@ -11,3 +11,4 @@
 2. Добавить кроссбраузерность.
 
 Мой профиль на GitHub [Мой профиль на GitHub](https://github.com/ZArtemA "Зырянов Артем")
+Ссылка на проект [Russian Travel на GitHub](https://zartema.github.io/russian-travel/ "Russian Travel")
